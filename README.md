@@ -10,8 +10,9 @@ It is recommended that you clone this repository (see [here](https://docs.github
 
 All scripts in the `build` folder require an up to date installation of Python - if you do not have Python installed on your machine, see [here](https://www.python.org/downloads/).
 
-(NOTE: setting up the virtual environment should *not* be necessary - if you run into package related issues it may be a solution)
-To install the required packages, it is recommended to use a virtual environment (see [here](https://docs.python.org/3/library/venv.html)). This avoids any conflicts with package versions already existing on your machine's global environment. 
+NOTE: setting up a virtual environment should *not* be necessary - if you run into package related issues it may be a solution.
+
+[If you choose to setup a virtual environment see [here](https://docs.python.org/3/library/venv.html). The virtual environment avoids any conflicts with package versions already existing on your machine's global environment.]
 
 To install the required packages, `cd` into the `build` directory and run `python install_requirements.py` in your command terminal.
 
