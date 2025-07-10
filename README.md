@@ -1,6 +1,6 @@
 # Dynamic Differential Microscopy (DDM)
 
-For a reference of the underlying theory of DDM, see the seminal textbook by [Berne & Peocora](https://www.eng.uc.edu/~beaucag/Classes/Properties/Books/Bruce%20J.%20Berne,%20Robert%20Pecora%20-%20Dynamic%20Light%20Scattering_%20With%20Applications%20to%20Chemistry,%20Biology,%20and%20Physics-John%20Wiley%20&%20Sons,%20Inc.%20(2000).pdf)
+For a reference of the underlying theory of DDM, see the seminal textbook by [Berne & Peocora](https://www.eng.uc.edu/~beaucag/Classes/Properties/Books/Bruce%20J.%20Berne,%20Robert%20Pecora%20-%20Dynamic%20Light%20Scattering_%20With%20Applications%20to%20Chemistry,%20Biology,%20and%20Physics-John%20Wiley%20&%20Sons,%20Inc.%20(2000).pdf).
 
 ## Cloning this repository
 
