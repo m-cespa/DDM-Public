@@ -12,8 +12,8 @@ All scripts in the `build` folder require an up to date installation of Python -
 
 To install the required packages, it is recommended to use a virtual environment (see [here](https://docs.python.org/3/library/venv.html)). This avoids any conflicts with package versions already existing on your machine's global environment. Setting up the virtual environment *should* be necessary - if you run into package related issues it may be a solution.
 
-To install the required packages, `cd` into the `build` directory and run `python install_requirements.txt` in your command terminal.
+To install the required packages, `cd` into the `build` directory and run `python install_requirements.py` in your command terminal.
 
 ## Use
 
-The `example.py` script is provided showing how to use the `DDM` custom class. It is important to read the implementation to follow the algorithm properly and debug/make edits.
+The `/example.py` script is provided showing how to use the `DDM` custom class. It is important to read the implementation to follow the algorithm properly and debug/make edits.
