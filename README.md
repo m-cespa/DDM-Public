@@ -16,4 +16,4 @@ To install the required packages, `cd` into the `build` directory and run `pytho
 
 ## Use
 
-The `/example.py` script is provided showing how to use the `DDM` custom class. It is important to read the implementation to follow the algorithm properly and debug/make edits.
+The [`example.py`](./example.py) script is provided showing how to use the `DDM` custom class. It is important to read the implementation to follow the algorithm properly and debug/make edits.
