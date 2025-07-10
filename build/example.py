@@ -1,7 +1,6 @@
 from DDM import DDM
 
 filepath = "... insert file path here ..."
-filepath = "0.5micron_example.avi"
 
 # specify pixel resolution (in μm per px for the lens in use)
 pixel_size = 0.229
