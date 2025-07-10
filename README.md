@@ -12,7 +12,7 @@ All scripts in the `build` folder require an up to date installation of Python -
 
 NOTE: setting up a virtual environment should *not* be necessary - if you run into package related issues it may be a solution.
 
-[If you choose to setup a virtual environment see [here](https://docs.python.org/3/library/venv.html). The virtual environment avoids any conflicts with package versions already existing on your machine's global environment.]
+[If you choose to setup a virtual environment see [here](https://docs.python.org/3/library/venv.html) for instructions. The virtual environment avoids any conflicts with package versions already existing on your machine's global environment.]
 
 To install the required packages, `cd` into the `build` directory and run `python install_requirements.py` in your command terminal.
 
